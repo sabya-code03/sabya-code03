@@ -48,7 +48,7 @@
 <div align="center">
   <i>"Code is poetry written in logic."</i><br>
   <b>Reach out:</b> <a href="mailto:your.email@example.com">Email Me</a>
-</div>## Hi there 👋
+</div>
 
 <!--
 **sabya-code03/sabya-code03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
