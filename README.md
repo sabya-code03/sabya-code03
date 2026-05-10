@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=200&section=header&text=Hi,%20I'm%20Sabyasachi%20(Sabya)%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
-
   <h3>Backend Developer | Competitive Programmer | B.Tech CSE Undergrad</h3>
   <p><i>Building scalable architectures & solving complex algorithmic problems.</i></p>
 </div>
