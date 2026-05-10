@@ -47,7 +47,7 @@
 ---
 <div align="center">
   <i>"Code is poetry written in logic."</i><br>
-  <b>Reach out:</b> <a href="mailto:your.email@example.com">Email Me</a>
+  <b>Reach out:</b> <a href="mailto:sabyasachighosh020803.com">Email Me</a>
 </div>
 
 <!--
