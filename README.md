@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently building **CrisisNet** (Emergency Response App) & **Fit Raho**
-- 🚀 Leading technical team **The Big O's** and active member of **Robotrix Club**
+- 🚀 **Campus Mantri** at GeeksforGeeks
 - 🌟 Participant & Ambassador at **GSSoC 2026**
 - ⚡ Focus: **C, C++, Python, JavaScript**, and core Computer Architecture.
 - 🎯 Always up for hackathons, algorithmic challenges, and open-source contributions.
