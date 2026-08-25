@@ -10,13 +10,11 @@
 
 I'm a Computer Science undergrad who genuinely enjoys the two ends of the software spectrum: designing backend systems that hold up under real load, and cracking algorithmic problems that don't give up their answer easily. When I'm not deep in either of those, I'm usually mentoring, contributing to open source, or figuring out how to make some new piece of hardware talk to my code.
 
-- 🔭 Currently building **CrisisNet** — an emergency response app — and **Fit Raho**, a fitness-focused project
 - 🚀 Serving as **Campus Mantri** at GeeksforGeeks, helping grow the dev community on campus
 - 🌟 Participant & Ambassador at **GSSoC 2026**, supporting contributors through their open-source journey
 - ⚡ Sharpening my edge in **C, C++, Python, JavaScript**, and core Computer Architecture
 - 🤖 Exploring **AI and Machine Learning**, curious about where backend systems and intelligent models meet
 - 🎯 Always down for hackathons, algorithmic challenges, and a good open-source rabbit hole
-- 💬 Happy to talk backend architecture, DSA problem-solving, or how to get started with competitive programming
 
 ### 🛠️ Tech Stack & Tools
 <p>
