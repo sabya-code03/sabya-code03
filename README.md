@@ -43,8 +43,7 @@ I'm a Computer Science undergrad who genuinely enjoys the two ends of the softwa
 </div>
 
 ### 🏅 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabya-code03&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<div ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sabya-code03&theme=tokyonight&no-frame=true)
 </div>
 
 ---
