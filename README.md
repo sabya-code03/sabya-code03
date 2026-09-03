@@ -4,8 +4,7 @@
   <p><i>I turn caffeine and late nights into scalable backend systems and clean solutions to hard problems.</i></p>
   
   <!-- Added GIF Here -->
-  <img src="<img width="640" height="360" alt="mine" src="https://github.com/user-attachments/assets/5fc543f0-9755-4fba-b154-324e95d7505e" />
-" alt="Late Night Coding" width="500" />
+ <img src="https://github.com/user-attachments/assets/5fc543f0-9755-4fba-b154-324e95d7505e" alt="Late Night Coding" width="350" />
 </div>
 
 ---
