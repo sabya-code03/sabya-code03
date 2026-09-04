@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=120&section=header&text=Hi,%20I'm%20Sabyasachi%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Competitive+Programmer;AI+%2F+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=120&section=header&text=Hi,%20I'm%20Sabyasachi%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=300&lines=Backend+Developer;Competitive+Programmer;AI+%2F+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   <p><i>I turn caffeine and late nights into scalable backend systems and clean solutions to hard problems.</i></p>
   
   <!-- Added GIF Here -->
- <img src="https://github.com/user-attachments/assets/5fc543f0-9755-4fba-b154-324e95d7505e" alt="Late Night Coding" width="350" />
+ <img src="https://github.com/user-attachments/assets/5fc543f0-9755-4fba-b154-324e95d7505e" alt="Late Night Coding" width="" />
 </div>
 
 ---
